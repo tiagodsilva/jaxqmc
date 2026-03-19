@@ -25,5 +25,5 @@ ax2.set_xlabel("Value")
 ax2.set_ylabel("Frequency")
 
 plt.tight_layout()
-plt.savefig("uniform_normal_histograms.png", dpi=150)
-print("Saved uniform_normal_histograms.png")
+plt.savefig("examples/uniform_normal_histograms.png", dpi=150)
+print("Saved examples/uniform_normal_histograms.png")

@@ -21,7 +21,7 @@ z = sobol_normal_1d(100)    # Standard normal samples
 
 Uniform and normal distributions generated with Sobol sequences:
 
-![Uniform and Normal Distributions](uniform_normal_histograms.png)
+![Uniform and Normal Distributions](examples/uniform_normal_histograms.png)
 
 ## Testing
 
