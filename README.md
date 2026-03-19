@@ -5,7 +5,7 @@ Quasi-Monte Carlo sampling with JAX.
 ## Installation
 
 ```bash
-pip install jaxqmc
+pip install git+https://github.com/tiagodasilva/jaxqmc.git
 ```
 
 ## Usage
